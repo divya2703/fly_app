@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fly_app/static/css/main.e1cee18a.chunk.css",
+    "main.js": "/fly_app/static/js/main.9546ef25.chunk.js",
+    "main.js.map": "/fly_app/static/js/main.9546ef25.chunk.js.map",
+    "runtime-main.js": "/fly_app/static/js/runtime-main.808f982c.js",
+    "runtime-main.js.map": "/fly_app/static/js/runtime-main.808f982c.js.map",
+    "static/js/2.fd0bc120.chunk.js": "/fly_app/static/js/2.fd0bc120.chunk.js",
+    "static/js/2.fd0bc120.chunk.js.map": "/fly_app/static/js/2.fd0bc120.chunk.js.map",
+    "index.html": "/fly_app/index.html",
+    "precache-manifest.3b2f9ab46adfe3a58cd059a3b0a5fa0a.js": "/fly_app/precache-manifest.3b2f9ab46adfe3a58cd059a3b0a5fa0a.js",
+    "service-worker.js": "/fly_app/service-worker.js",
+    "static/css/main.e1cee18a.chunk.css.map": "/fly_app/static/css/main.e1cee18a.chunk.css.map",
+    "static/js/2.fd0bc120.chunk.js.LICENSE.txt": "/fly_app/static/js/2.fd0bc120.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.808f982c.js",
+    "static/js/2.fd0bc120.chunk.js",
+    "static/css/main.e1cee18a.chunk.css",
+    "static/js/main.9546ef25.chunk.js"
+  ]
+}
