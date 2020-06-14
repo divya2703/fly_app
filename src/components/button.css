@@ -1,0 +1,27 @@
+
+  .btn1 {
+    margin: 0;
+    position: relative;
+    margin-left: 49%;
+  }
+
+#btn2{
+    /* width: 200px;
+    height: 40px; */
+    margin:5px;
+    
+}
+#btn3{
+    /* width: 200px;
+    height: 40px; */
+    margin: 5px;
+    
+}
+.div1{
+    text-align: center;
+}
+
+.div2{
+    font-size: 200px;
+    color: orangered;
+}
